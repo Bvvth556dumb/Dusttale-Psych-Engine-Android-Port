@@ -1,0 +1,75 @@
+{
+	"storyName": "crazy sans",
+	"hideFreeplay": false,
+	"weekBackground": "mad",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"The-Murderer",
+			"icons-sans_worried",
+			[
+				165,
+				165,
+				165
+			]
+		],
+		[
+			"Red-Megalovania",
+			"icons-sans-upset",
+			[
+				135,
+				135,
+				135
+			]
+		],
+		[
+			"Drowning",
+			"icons-sans-upset",
+			[
+				135,
+				135,
+				135
+			]
+		],
+		[
+			"Psychotic-Breakdown",
+			"icons-sans",
+			[
+				105,
+				105,
+				105
+			]
+		],
+		[
+			"D.I.E",
+			"icons-sans",
+			[
+				105,
+				105,
+				105
+			]
+		],
+		[
+			"Anthropophobia",
+			"icons-sans-mad",
+			[
+				85,
+				85,
+				85
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Custom Week"
+}
