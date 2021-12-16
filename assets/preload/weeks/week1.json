@@ -13,10 +13,10 @@
 	"weekBackground": "stage",
 
 	"storyName": "Daddy Dearest",
-	"weekBefore": "tutorial",
+	"weekBefore": "1mad time",
 	"weekName": "Week 1",
 	"startUnlocked": true,
 
-	"hideStoryMode": false,
-	"hideFreeplay": false
+	"hideStoryMode": true,
+	"hideFreeplay": true
 }
