@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-16"?>
+<TextureAtlas imagePath="paps.png">
+	<!-- Created with Adobe Flash CS6 version 12.0.0.481 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="Pap down0000" x="0" y="0" width="668" height="938" frameX="-139" frameY="0" frameWidth="807" frameHeight="938"/>
+	<SubTexture name="Pap down0001" x="668" y="0" width="780" height="933" frameX="-21" frameY="-5" frameWidth="807" frameHeight="938"/>
+	<SubTexture name="Pap down0002" x="1448" y="0" width="796" height="766" frameX="0" frameY="-172" frameWidth="807" frameHeight="938"/>
+	<SubTexture name="Pap down0003" x="1448" y="0" width="796" height="766" frameX="0" frameY="-172" frameWidth="807" frameHeight="938"/>
+	<SubTexture name="Pap down0004" x="1448" y="0" width="796" height="766" frameX="0" frameY="-172" frameWidth="807" frameHeight="938"/>
+	<SubTexture name="Pap down0005" x="1448" y="0" width="796" height="766" frameX="0" frameY="-172" frameWidth="807" frameHeight="938"/>
+	<SubTexture name="Pap idle0000" x="2244" y="0" width="769" height="580" frameX="-88" frameY="-34" frameWidth="862" frameHeight="653"/>
+	<SubTexture name="Pap idle0001" x="2244" y="0" width="769" height="580" frameX="-88" frameY="-34" frameWidth="862" frameHeight="653"/>
+	<SubTexture name="Pap idle0002" x="3013" y="0" width="785" height="571" frameX="-73" frameY="-47" frameWidth="862" frameHeight="653"/>
+	<SubTexture name="Pap idle0003" x="3013" y="0" width="785" height="571" frameX="-73" frameY="-47" frameWidth="862" frameHeight="653"/>
+	<SubTexture name="Pap idle0004" x="0" y="938" width="773" height="575" frameX="-89" frameY="-78" frameWidth="862" frameHeight="653"/>
+	<SubTexture name="Pap idle0005" x="773" y="938" width="778" height="586" frameX="-83" frameY="-57" frameWidth="862" frameHeight="653"/>
+	<SubTexture name="Pap idle0006" x="1551" y="938" width="773" height="603" frameX="-81" frameY="-20" frameWidth="862" frameHeight="653"/>
+	<SubTexture name="Pap idle0007" x="2324" y="938" width="847" height="611" frameX="-7" frameY="0" frameWidth="862" frameHeight="653"/>
+	<SubTexture name="Pap idle0008" x="3171" y="938" width="852" height="599" frameX="0" frameY="-15" frameWidth="862" frameHeight="653"/>
+	<SubTexture name="Pap left0000" x="0" y="1549" width="1001" height="693" frameX="0" frameY="-12" frameWidth="1005" frameHeight="705"/>
+	<SubTexture name="Pap left0001" x="1001" y="1549" width="947" height="705" frameX="-58" frameY="0" frameWidth="1005" frameHeight="705"/>
+	<SubTexture name="Pap left0002" x="1948" y="1549" width="917" height="692" frameX="-87" frameY="-13" frameWidth="1005" frameHeight="705"/>
+	<SubTexture name="Pap left0003" x="1948" y="1549" width="917" height="692" frameX="-87" frameY="-13" frameWidth="1005" frameHeight="705"/>
+	<SubTexture name="Pap left0004" x="1948" y="1549" width="917" height="692" frameX="-87" frameY="-13" frameWidth="1005" frameHeight="705"/>
+	<SubTexture name="Pap left0005" x="1948" y="1549" width="917" height="692" frameX="-87" frameY="-13" frameWidth="1005" frameHeight="705"/>
+	<SubTexture name="Pap left0006" x="1948" y="1549" width="917" height="692" frameX="-87" frameY="-13" frameWidth="1005" frameHeight="705"/>
+	<SubTexture name="Pap right0000" x="2865" y="1549" width="933" height="464" frameX="0" frameY="0" frameWidth="933" frameHeight="585"/>
+	<SubTexture name="Pap right0001" x="0" y="2254" width="885" height="569" frameX="-5" frameY="-8" frameWidth="933" frameHeight="585"/>
+	<SubTexture name="Pap right0002" x="0" y="2254" width="885" height="569" frameX="-5" frameY="-8" frameWidth="933" frameHeight="585"/>
+	<SubTexture name="Pap right0003" x="885" y="2254" width="875" height="581" frameX="-5" frameY="-4" frameWidth="933" frameHeight="585"/>
+	<SubTexture name="Pap right0004" x="885" y="2254" width="875" height="581" frameX="-5" frameY="-4" frameWidth="933" frameHeight="585"/>
+	<SubTexture name="Pap right0005" x="885" y="2254" width="875" height="581" frameX="-5" frameY="-4" frameWidth="933" frameHeight="585"/>
+	<SubTexture name="Pap right0006" x="885" y="2254" width="875" height="581" frameX="-5" frameY="-4" frameWidth="933" frameHeight="585"/>
+	<SubTexture name="Pap up0000" x="1760" y="2254" width="686" height="865" frameX="-91" frameY="0" frameWidth="777" frameHeight="865"/>
+	<SubTexture name="Pap up0001" x="2446" y="2254" width="762" height="709" frameX="0" frameY="-6" frameWidth="777" frameHeight="865"/>
+	<SubTexture name="Pap up0002" x="3208" y="2254" width="706" height="851" frameX="-54" frameY="-12" frameWidth="777" frameHeight="865"/>
+	<SubTexture name="Pap up0003" x="3208" y="2254" width="706" height="851" frameX="-54" frameY="-12" frameWidth="777" frameHeight="865"/>
+	<SubTexture name="Pap up0004" x="3208" y="2254" width="706" height="851" frameX="-54" frameY="-12" frameWidth="777" frameHeight="865"/>
+	<SubTexture name="Pap up0005" x="3208" y="2254" width="706" height="851" frameX="-54" frameY="-12" frameWidth="777" frameHeight="865"/>
+	<SubTexture name="Pap up0006" x="3208" y="2254" width="706" height="851" frameX="-54" frameY="-12" frameWidth="777" frameHeight="865"/>
+</TextureAtlas>
